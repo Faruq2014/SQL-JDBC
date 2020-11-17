@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1346" started-at="2020-11-14T19:00:29 EST" finished-at="2020-11-14T19:00:30 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1346" started-at="2020-11-14T19:00:29 EST" finished-at="2020-11-14T19:00:30 EST">
+      <class name="com.sql.ddl.ConstraintsQuestions.WhatAreConstraints_ForeignKey">
+        <test-method status="PASS" signature="getConnection()[pri:0, instance:com.sql.ddl.ConstraintsQuestions.WhatAreConstraints_ForeignKey@61f8bee4]" name="getConnection" is-config="true" duration-ms="912" started-at="2020-11-14T19:00:29 EST" finished-at="2020-11-14T19:00:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getConnection -->
+        <test-method status="PASS" signature="testMethods()[pri:0, instance:com.sql.ddl.ConstraintsQuestions.WhatAreConstraints_ForeignKey@61f8bee4]" name="testMethods" duration-ms="383" started-at="2020-11-14T19:00:30 EST" finished-at="2020-11-14T19:00:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethods -->
+        <test-method status="PASS" signature="closeConnection()[pri:0, instance:com.sql.ddl.ConstraintsQuestions.WhatAreConstraints_ForeignKey@61f8bee4]" name="closeConnection" is-config="true" duration-ms="1" started-at="2020-11-14T19:00:30 EST" finished-at="2020-11-14T19:00:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnection -->
+      </class> <!-- com.sql.ddl.ConstraintsQuestions.WhatAreConstraints_ForeignKey -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
